@@ -150,7 +150,7 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 ## 📘 PDF
 
 A PDF of all of the lessons can be found [here](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf).
-
+DUMMY TOKEN: ghp_Pp6LqrlqvNx5UyyRx02hreTTTTTdEE1a6tt1
 
 ## 🎒 Other Curricula
 
